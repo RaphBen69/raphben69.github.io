@@ -1,3 +1,4 @@
+google.com, pub-4926259916191147, DIRECT, f08c47fec0942fa0
 videoheroes.tv, 212450, RESELLER, 064bc410192443d8
 videoheroes.tv, 212428, RESELLER, 064bc410192443d8
 videoheroes.tv, 212499, RESELLER, 064bc410192443d8
